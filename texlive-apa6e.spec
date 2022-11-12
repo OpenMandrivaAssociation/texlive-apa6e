@@ -5,9 +5,9 @@ Summary:	Format manuscripts to APA 6th edition guidelines
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apa6e
 License:	OTHER-FREE
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apa6e.r23350.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apa6e.doc.r23350.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apa6e.source.r23350.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apa6e.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apa6e.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apa6e.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
