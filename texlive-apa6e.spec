@@ -1,6 +1,6 @@
 Name:		texlive-apa6e
 Version:	23350
-Release:	1
+Release:	2
 Summary:	Format manuscripts to APA 6th edition guidelines
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apa6e
