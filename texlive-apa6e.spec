@@ -3,7 +3,7 @@ Version:	23350
 Release:	2
 Summary:	Format manuscripts to APA 6th edition guidelines
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apa6e
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/apa6e
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apa6e.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apa6e.doc.r%{version}.tar.xz
